@@ -3,6 +3,8 @@ name = Content Browser Recipe
 description = A recipe to build a content browser view.
 package = Recipes
 backdrop = 1.x
+configure = admin/structure/views/view/content_browser
+tags[] = recipe
 
 dependencies[] = system (>=1.20.0)
 dependencies[] = views
