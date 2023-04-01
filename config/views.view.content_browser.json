@@ -402,7 +402,16 @@
                     "type": "views_query",
                     "options": []
                 },
-                "path": "content-browser"
+                "path": "admin/content/content-browser",
+                "menu": {
+                    "type": "normal",
+                    "title": "Content Browser",
+                    "description": "A view of content grouped by type.",
+                    "name": "management",
+                    "weight": "0",
+                    "context": 0,
+                    "context_only_inline": 0
+                }
             }
         }
     }
