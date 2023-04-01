@@ -47,7 +47,7 @@
                         "alter": {
                             "alter_text": 0,
                             "text": "",
-                            "make_link": 1,
+                            "make_link": 0,
                             "path": "content_browser/[type]",
                             "absolute": 0,
                             "external": 0,
